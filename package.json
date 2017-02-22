@@ -1,5 +1,5 @@
 {
     "name":"hello-wolrd-TravisCI",
     "version": "0.0.0",
-    "scripts": { "test" : "node." }
+    "scripts": { "test" : "node ." }
 }
